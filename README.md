@@ -10,7 +10,7 @@
     - [Videos](#videos)
     - [Mailing List Best Of](#mailing-list-best-of)
 - [Videos](#videos)
-- [Templates](#templates)
+- [Templates](#templates-and-examples)
 - [Processors and Bundles](#processors-and-bundles)
 - [Deployment](#deployment)
     - [Data Flow Deployment](#data-flow-deployment)
@@ -86,10 +86,11 @@
 * [Re: Persistence of intermediary data in NiFi ?](http://mail-archives.apache.org/mod_mbox/nifi-users/201603.mbox/%3cCALJK9a6t5+B6S0MCCyOOs7hds_4dfnwj-6PjxFR6kXkdp1D3fg@mail.gmail.com%3e)
 * [Re: Need help understanding backpressure](http://mail-archives.apache.org/mod_mbox/nifi-users/201604.mbox/%3cBLU436-SMTP24995D5F6EDF5985AADFE23CE680@phx.gbl%3e)
 
-## Templates
+## Templates and Examples
 
 * [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
 * [bikash/nifiIoT](https://github.com/bikash/nifiIoT) - Data Tracking using Apache NiFi in IoT, IoE
+* [BatchIQ/nifi-executescript-samples](https://github.com/BatchIQ/nifi-executescript-samples) - Sample scripts for use with Apache NiFi's ExecuteScript processor
 
 ## Processors and Bundles
 
@@ -141,6 +142,9 @@
 * [jonathantelfer/nifi-neo4j](https://github.com/jonathantelfer/nifi-neo4j) - Bundle to add data into Neo4J graph databases
 * [compose-ex/nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle) - Mongo streaming and RocksDB processors
 * [sysunite/sysunite-nifi](https://github.com/sysunite/sysunite-nifi) - Generic Sysunite processors
+* [BatchIQ/nifi-file-identity-provider-bundle](https://github.com/BatchIQ/nifi-file-identity-provider-bundle) - Identity Provider for Apache NiFi, allowing username/password authentication backed by a local file store
+* [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
+* [mrcsparker/nifi-r-bundle](https://github.com/mrcsparker/nifi-r-bundle) - R Processor for NIFI
 
 ## Deployment
 
